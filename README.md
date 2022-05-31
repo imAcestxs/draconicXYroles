@@ -1,6 +1,6 @@
 # How To Import
 Go To Settings                          
-https://i.gyazo.com/3089fd2a3d648d47b23e0e1505f41d30.png                          
+https://i.gyazo.com/3089fd2a3d648d47b23e0e1505f41d30.png                                                    
 Scroll To BD Settings
 https://i.gyazo.com/4f41962de5da395a16156ed762f59fa8.png                          
 Press Custom CSS and paste the Code                          
